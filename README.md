@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Svelte and Node.
 - 📫 How to reach me: Well you see, You don't.
 
-When the ඞ is sus.
-  @Dan-Gamin - 2022
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Gamin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Dan-Gamin/Dan-Gamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
